@@ -16,7 +16,7 @@
 #define RESET "\x1B[0m"
 
 #define HIGHLIGHT "\x1B[42;37;1m"
-#define endl 78
+#define endl 40
 #define SPACES 3
 
 int *rand_int_array(int size, int seed)
